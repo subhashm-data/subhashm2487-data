@@ -1,36 +1,23 @@
- Hi, I'm Subhash M
+## Featured Project: AI-Assisted KYC Due Diligence
 
-I am a banking professional transitioning into data science and machine learning.
+A working prototype that brings public-source company research,
+document extraction and analyst review into one Streamlit application.
 
-## Focus Areas
+### Project highlights
 
-- Python and machine learning
-- Fraud and risk analytics
-- OCR and document intelligence
-- KYC and entity verification
-- Power BI and data visualisation
+- Company registry, regulatory and stock-exchange listing research.
+- Annual-report extraction covering business activities, senior
+  management, board directors and subsidiaries.
+- Ownership visualisation and risk-based beneficial ownership analysis.
+- Source-of-funds and source-of-wealth research.
+- Source links, report-page references and downloadable evidence.
 
-## Featured Projects
+**Technology:** Python, Streamlit, OCR and API integration.
 
-### AI-Assisted KYC Entity Verification
+**Status:** Working prototype undergoing validation. Extraction quality
+varies by document, and findings require analyst review.
 
-A Streamlit-based platform for public-source entity verification, annual-report extraction, ownership analysis, board identification and evidence capture.
-
-### Fraud Transaction Prediction
-
-A machine learning project focused on identifying potentially fraudulent transactions for review prioritisation.
-
-### Heart Disease Prediction
-
-A classification project using patient health metrics and multiple machine learning models.
-
-### Titanic Survival Prediction
-
-An end-to-end project covering data cleaning, exploratory analysis, feature engineering and model comparison.
-
-## Currently Learning
-
-Data science, machine learning, predictive analytics and automation for banking and financial crime risk.
+**Source code:** Maintained privately.
 
 ## Connect
 
