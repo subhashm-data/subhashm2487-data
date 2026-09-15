@@ -21,9 +21,9 @@ varies by document, and findings require analyst review.
 
 ### Project Walkthrough
 
-[View the project walkthrough (PDF)](KYC-project-overview.pdf)
+[View the project walkthrough (PDF)]()
 
 ## Connect
 
-- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/subhash-m-13439190/)
+- LinkedIn: [(https://www.linkedin.com/in/subhash-m-13439190/]
 - Email: subhash.m2487@gmail.com
