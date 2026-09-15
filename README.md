@@ -21,7 +21,7 @@ varies by document, and findings require analyst review.
 
 ### Project Walkthrough
 
-[View the project walkthrough (PDF)]
+[View the project walkthrough (KYC-project-overview)]
 
 ## Connect
 
