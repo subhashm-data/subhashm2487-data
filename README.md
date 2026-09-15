@@ -19,6 +19,10 @@ varies by document, and findings require analyst review.
 
 **Source code:** Maintained privately.
 
+### Project Walkthrough
+
+[View the project walkthrough (PDF)](KYC-project-overview.pdf)
+
 ## Connect
 
 - LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/subhash-m-13439190/)
